@@ -57,6 +57,7 @@ Repository structure
  - `files` - stores binary files used in pages
  - `images` - stores the images used in pages
  - `news` - lists the blog pages from the `_posts` directory
+ #why are you doing this
 
 Writing a blog post
 -------------------
